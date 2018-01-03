@@ -3,7 +3,7 @@
 `lime_power_fftw` is a program that obtains a power spectrum from LimeSDR
 devices using the FFTW library to do FFT.
 
-It is cloned from rtl-power-fftw.
+It is forked from rtl-power-fftw.
 
 ## Prerequisites
 
